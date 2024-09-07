@@ -1,0 +1,224 @@
+ManifestFileVersion: 0
+CRC: 3661271467
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b6826e3a82db0f678a4eb3f23fa6538
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c53ae4f5ebc64f8e55239f9c79b43602
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 307a736764ebbce44b54d72f8467b6fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 443f25d74bc632b48a58719568aa63be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf2edee5c58d82540a51f03df9d42094, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b2db86121404754db890f4c8dfe81b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 899c54efeace73346a0a16faa3afe726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97170a73ee94d1f47899b774a0f367aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97c23e3b12dc18c42a140437e53d3951, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29b642b9b485f8e40a740e91e34de5af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0435cb04f162a4469b092e7bc3cb011, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 572910c10080c0945a0ef731ccedc739, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de640fe3d0db1804a85f9fc8f5cadab6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: CopData
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.BoolParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ColorParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.MinFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.TextureParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector2Parameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.ForwardRendererData/ShaderResources
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.PostProcessData/ShaderResources
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.PostProcessData/TextureResources
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.StencilStateData
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.TonemappingModeParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.XRSystemData/ShaderResources
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/_Game/Sprites/icon btn/loading.png
+- Assets/_Game/SO/Game Data.asset
+- Assets/_Game/Settings/UniversalRP-MediumQuality.asset
+- Assets/_Game/New Folder/RearviewMirror.renderTexture
+- Assets/_Game/Prefabs/alert.prefab
+- Assets/_Game/Sprites/icon btn/lamp.png
+- Assets/_Game/Materials/Ground.mat
+- Assets/_Game/Materials/cops.mat
+- Assets/_Game/Fonts/RBNO2.1A W00 BOLDITALIC.TTF
+- Assets/_Game/Models/swat.fbx
+- Assets/_Game/Materials/redcar.mat
+- Assets/_Game/Materials/Skybox_Mat.mat
+- Assets/_Game/Materials/Vehicle_Swat_Truck.mat
+- Assets/_Game/Materials/ExplosionMat.mat
+- Assets/_Game/Sound/explodemini.wav
+- Assets/_Game/Sprites/icon btn/music-on.png
+- Assets/_Game/Fonts/RBNO2.1A W00 BLACKITALIC.TTF
+- Assets/_Game/Sprites/icon btn/music-off.png
+- Assets/_Game/Sprites/video2.png
+- Assets/_Game/Sprites/icon btn/bgm.png
+- Assets/_Game/Sprites/title.png
+- Assets/_Game/Models/redcar.fbx
+- Assets/_Game/Sprites/icon btn/video.png
+- Assets/_Game/Models/cops.fbx
+- Assets/_Game/Sprites/icon btn/close128.png
+- Assets/_Game/Textures/red car.png
+- Assets/_Game/Sprites/rounded2.png
+- Assets/_Game/Sprites/icon btn/share.png
+- Assets/_Game/Prefabs/Cops1.prefab
+- Assets/_Game/Fonts/TMPChineseFont.asset
+- Assets/_Game/Sprites/icon btn/sfx-off.png
+- Assets/_Game/Sprites/arrow.png
+- Assets/_Game/Sprites/icon btn/setting.png
+- Assets/_Game/Sprites/ringTimer.png
+- Assets/_Game/Sprites/icon btn/checklist.png
+- Assets/_Game/Sound/52906__vlammenos__police-siren.wav
+- Assets/_Game/Sprites/setting2.png
+- Assets/_Game/Sound/A Journey Awaits.ogg
+- Assets/_Game/Game/Global Volume Profile.asset
+- Assets/_Game/Textures/cops_light.png
+- Assets/_Game/Sprites/icon btn/settings.png
+- Assets/_Game/SO/Credit Data.asset
+- Assets/_Game/Prefabs/siren.prefab
+- Assets/_Game/Sprites/icon btn/pause.png
+- Assets/_Game/Sprites/icon btn/star.png
+- Assets/_Game/Sprites/title 3.png
+- Assets/_Game/Sprites/icon btn/play.png
+- Assets/_Game/Sound/click.ogg
+- Assets/_Game/Sprites/app/round_icon.png
+- Assets/_Game/Sprites/icon btn/sfx-on.png
+- Assets/_Game/Prefabs/DirectionIndicator.prefab
+- Assets/_Game/Sprites/icon btn/video2.png
+- Assets/_Game/Sprites/sample-logo.png
+- Assets/_Game/Sprites/icon btn/setting2.png
+- Assets/_Game/Sprites/rounded1.png
+- Assets/_Game/Settings/ForwardRenderer.asset
+- Assets/_Game/Sprites/bg.png
+- Assets/_Game/Fonts/RBNO2.asset
+- Assets/_Game/Settings/SampleSceneProfile.asset
+- Assets/_Game/Sprites/icon btn/leaderboard.png
+- Assets/_Game/Textures/swat.png
+- Assets/_Game/Textures/red car light.png
+- Assets/_Game/Sprites/icon btn/info.png
+- Assets/_Game/Sprites/tuts.png
+- Assets/_Game/Game/ReflectionProbe-0.exr
+- Assets/_Game/Sprites/app/Adaptive_icon.png
+- Assets/_Game/Prefabs/ExplosionFx.prefab
+- Assets/_Game/Sprites/bg2.png
+- Assets/_Game/Prefabs/Cops2.prefab
+- Assets/_Game/Sprites/icon btn/home.png
+- Assets/_Game/Sprites/icon btn/retry.png
+- Assets/_Game/Sprites/icon btn/exit.png
+- Assets/_Game/Sprites/glare1.png
+- Assets/_Game/Prefabs/Plane.prefab
+- Assets/_Game/Sprites/icon btn/shop.png
+- Assets/_Game/Settings/UniversalRP-LowQuality.asset
+- Assets/_Game/Sprites/danger.png
+- Assets/_Game/Sprites/icon btn/trophy.png
+- Assets/_Game/Settings/UniversalRP-HighQuality.asset
+Dependencies:
+- C:/Users/ww176/Desktop/Unity3DProjectFiel/SimpleGame/CarVsCops_v1.1/CarVsCops_v1.1/Assets/AssetBundles/textpro

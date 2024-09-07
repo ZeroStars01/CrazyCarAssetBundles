@@ -1,0 +1,114 @@
+ManifestFileVersion: 0
+CRC: 1369119825
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 055fc9859b4977656a552e7112452cf2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 574e06e396bbb1c9e3d498facad70eab
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e559d21b5f410534995675e59309d0b0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ea24c646c5f3224d8cbbc6112f44245, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 818518a804211824da7d8d0d1d1e1e4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 254d99ffcb66eb644b46189fdea8e253, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 28efac981fa31774e8dc52b52e7e31b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3a132cb571bacba4c982e0da2ee72fd5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9282ac3b8dcaa049a0425fbbffa9ca6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a3d4faa977ed23488539ffcb9b921ff, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/_Ads/SO/Policy Data.asset
+- Assets/_Ads/_GDPR/GDPR (1).prefab
+- Assets/_Ads/_GDPR/Fonts/GothamMedium.ttf
+- Assets/_Ads/_GDPR/Sprites/panel bg.png
+- Assets/_Ads/_GDPR/Fonts/Gotham-Bold.otf
+- Assets/_Ads/_GDPR/Sprites/loading.png
+- Assets/_Ads/_GDPR/Fonts/GothamMedium SDF.asset
+- Assets/_Ads/Ads Manager.prefab
+- Assets/_Ads/_GDPR/Fonts/Gotham-Bold SDF.asset
+- Assets/_Ads/_GDPR/Sprites/close128.png
+- Assets/_Ads/_GDPR/Sprites/Button Background.png
+- Assets/_Ads/SO/Ads Data.asset
+- Assets/_Ads/_GDPR/GDPR (0).prefab
+Dependencies:
+- C:/Users/ww176/Desktop/Unity3DProjectFiel/SimpleGame/CarVsCops_v1.1/CarVsCops_v1.1/Assets/AssetBundles/textpro

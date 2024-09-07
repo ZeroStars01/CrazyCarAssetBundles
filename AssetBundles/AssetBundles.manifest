@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2694072442
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ads
+      Dependencies:
+        Dependency_0: textpro
+    Info_1:
+      Name: game
+      Dependencies:
+        Dependency_0: textpro
+    Info_2:
+      Name: lean
+      Dependencies: {}
+    Info_3:
+      Name: plug
+      Dependencies: {}
+    Info_4:
+      Name: unityplug
+      Dependencies: {}
+    Info_5:
+      Name: textpro
+      Dependencies: {}
+    Info_6:
+      Name: texture
+      Dependencies: {}
+    Info_7:
+      Name: scene
+      Dependencies:
+        Dependency_0: ads
+        Dependency_1: game
+        Dependency_2: unityplug
+        Dependency_3: textpro
+        Dependency_4: texture
